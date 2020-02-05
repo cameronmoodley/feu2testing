@@ -6,7 +6,7 @@
         noroff-nuxt-app
       </h1>
       <h2 class="subtitle">
-        My riveting Nuxt.js project
+      Hello FEU2
       </h2>
       <div class="links">
         <a
